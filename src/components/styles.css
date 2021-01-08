@@ -34,3 +34,17 @@ h4 {
 p {
   font-style: italic;
 }
+
+@media screen and (min-width: 1020px) {
+  .temp {
+    padding: 7rem 7rem;
+  }
+
+  .temp h3 {
+    font-size: 6rem;
+  }
+
+  p {
+    font-size: 2rem;
+  }
+}
