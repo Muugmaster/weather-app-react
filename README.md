@@ -2,7 +2,7 @@
 
 ### About the project
 
-![AltText|350](https://i.imgur.com/PfoGh5N.png) ![AltText|318](https://i.imgur.com/06CVTqs.png)
+![AltText|250](https://i.imgur.com/PfoGh5N.png) ![AltText|228](https://i.imgur.com/06CVTqs.png)
 
 Small project to learn about React framework and working with APIs.
 User can search specific city from all around the world and then app shows current weather, weather description, date and country of that city.
